@@ -1,0 +1,126 @@
+ BEGIN:VCARD
+VERSION:3.0
+FN:Ahmet Yılmaz
+N:Yılmaz;Ahmet;;;
+ORG:Teknoloji A.Ş.;Yazılım Geliştirme
+TITLE:Kıdemli Backend Geliştirici
+TEL;TYPE=CELL:+90 532 111 22 33
+TEL;TYPE=WORK:+90 212 444 55 66
+EMAIL;TYPE=INTERNET:ahmet.yilmaz@teknoloji.com.tr
+URL:https://www.linkedin.com/in/ahmetyilmaz
+ADR;TYPE=WORK:;;Levent Mahallesi\, Büyükdere Cad. No:45 Kat:8;İstanbul;;34394;Türkiye
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Zeynep Kaya
+N:Kaya;Zeynep;;;
+ORG:Global Finans Ltd.;Kurumsal Bankacılık
+TITLE:Müşteri İlişkileri Direktörü
+TEL;TYPE=CELL:+90 505 222 33 44
+TEL;TYPE=WORK:+90 216 333 44 55
+TEL;TYPE=FAX:+90 216 333 44 56
+EMAIL;TYPE=INTERNET:z.kaya@globalfinans.com
+EMAIL;TYPE=INTERNET:zeynep.kaya@gmail.com
+URL:https://www.globalfinans.com
+ADR;TYPE=WORK:;;Bağdat Caddesi No:120;İstanbul;;34728;Türkiye
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Mehmet Demir
+N:Demir;Mehmet;;;
+ORG:Demir İnşaat;Proje Yönetimi
+TITLE:Proje Müdürü
+TEL;TYPE=CELL:+90 542 333 44 55
+TEL;TYPE=WORK:+90 312 555 66 77
+EMAIL;TYPE=INTERNET:mehmet@demirinsaat.com.tr
+ADR;TYPE=WORK:;;Kızılay Mah. Atatürk Bulvarı No:89;Ankara;;06420;Türkiye
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Elif Şahin
+N:Şahin;Elif;;;
+ORG:Kreatif Ajans;Marka ve İletişim
+TITLE:Kreatif Direktör
+TEL;TYPE=CELL:+90 553 444 55 66
+EMAIL;TYPE=INTERNET:elif.sahin@kreatifajans.com
+URL:https://www.behance.net/elifsahin
+URL:https://www.instagram.com/elifsahin_creative
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Burak Arslan
+N:Arslan;Burak;;;
+ORG:Arslan Hukuk Bürosu;
+TITLE:Avukat
+TEL;TYPE=CELL:+90 533 555 66 77
+TEL;TYPE=WORK:+90 232 666 77 88
+EMAIL;TYPE=INTERNET:burak.arslan@arslanhukuk.av.tr
+ADR;TYPE=WORK:;;Alsancak Mah. Cumhuriyet Bulvarı No:34 Kat:3;İzmir;;35220;Türkiye
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Selin Öztürk
+N:Öztürk;Selin;;;
+ORG:MedTech Sağlık;Ar-Ge
+TITLE:Ürün Geliştirme Müdürü
+TEL;TYPE=CELL:+90 544 666 77 88
+TEL;TYPE=WORK:+90 212 777 88 99
+EMAIL;TYPE=INTERNET:selin.ozturk@medtech.com.tr
+URL:https://www.linkedin.com/in/selinozturk
+ADR;TYPE=WORK:;;Maslak Mah. Ahi Evran Cad. No:6;İstanbul;;34398;Türkiye
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Can Erdoğan
+N:Erdoğan;Can;;;
+ORG:StartUp Hub;Girişimcilik
+TITLE:Kurucu Ortak & CEO
+TEL;TYPE=CELL:+90 555 777 88 99
+EMAIL;TYPE=INTERNET:can@startuphub.io
+URL:https://www.twitter.com/canerdogan
+URL:https://www.startuphub.io
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Ayşe Doğan
+N:Doğan;Ayşe;;;
+ORG:Moda Tekstil A.Ş.;Tasarım
+TITLE:Baş Tasarımcı
+TEL;TYPE=CELL:+90 506 888 99 00
+TEL;TYPE=WORK:+90 212 888 00 11
+EMAIL;TYPE=INTERNET:ayse.dogan@modatekstil.com
+ADR;TYPE=WORK:;;Osmanbey Mah. Halaskargazi Cad. No:77;İstanbul;;34371;Türkiye
+URL:https://www.instagram.com/aysedogan_design
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Tarık Yıldız
+N:Yıldız;Tarık;;;
+ORG:Lojistik Express;Operasyon
+TITLE:Operasyon Koordinatörü
+TEL;TYPE=CELL:+90 532 999 00 11
+TEL;TYPE=WORK:+90 216 999 11 22
+TEL;TYPE=FAX:+90 216 999 11 23
+EMAIL;TYPE=INTERNET:tarik.yildiz@lojistikexpress.com
+ADR;TYPE=WORK:;;Dudullu OSB 1. Cadde No:12;İstanbul;;34776;Türkiye
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Nisan Çelik
+N:Çelik;Nisan;;;
+ORG:Dijital Pazarlama Co.;Büyüme
+TITLE:Growth Hacker
+TEL;TYPE=CELL:+90 546 000 11 22
+EMAIL;TYPE=INTERNET:nisan@dijitalpazarlama.com
+URL:https://www.linkedin.com/in/nisancelik
+URL:https://www.tiktok.com/@nisancelik
+END:VCARD
